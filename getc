@@ -1,0 +1,1 @@
+spring.raisoni.provider="http://localhost:7070/raisoni/getCourses"
